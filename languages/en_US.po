@@ -1,0 +1,173 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Templatic Booking System v1.0.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-05-12 17:56+0530\n"
+"PO-Revision-Date: 2016-05-12 17:56+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/admin/form.php:31 includes/core/admin-functions.php:18
+msgid "AMP Setting"
+msgstr ""
+
+#: includes/admin/form.php:38
+msgid "Enable AMP?"
+msgstr ""
+
+#: includes/admin/form.php:48
+msgid "Enable/Desable AMP"
+msgstr ""
+
+#: includes/admin/form.php:53
+msgid "AMP Theme"
+msgstr ""
+
+#: includes/admin/form.php:64
+msgid "Header Code"
+msgstr ""
+
+#: includes/admin/form.php:75
+msgid "Footer Code"
+msgstr ""
+
+#: includes/core/tmpl-amp-core.php:25
+msgid "Please enter valid theme name."
+msgstr ""
+
+#: templates/templatic/404.php:2
+msgid "Not Found"
+msgstr ""
+
+#: templates/templatic/404.php:6
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: templates/templatic/archive.php:6
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: templates/templatic/archive.php:9
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: templates/templatic/archive.php:12
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: templates/templatic/archive.php:15 templates/templatic/index.php:8
+msgid "Archives"
+msgstr ""
+
+#: templates/templatic/author.php:8
+#, php-format
+msgid "All posts by %s"
+msgstr ""
+
+#: templates/templatic/category.php:3
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: templates/templatic/comments.php:20 templates/templatic/comments.php:38
+msgid "Comment navigation"
+msgstr ""
+
+#: templates/templatic/comments.php:21 templates/templatic/comments.php:39
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: templates/templatic/comments.php:22 templates/templatic/comments.php:40
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: templates/templatic/comments.php:45
+msgid "Comments are closed."
+msgstr ""
+
+#: templates/templatic/content.php:28
+msgid "Leave a comment"
+msgstr ""
+
+#: templates/templatic/content.php:28
+msgid "1 Comment"
+msgstr ""
+
+#: templates/templatic/content.php:28
+msgid "% Comments"
+msgstr ""
+
+# @ DOMAIN
+#: templates/templatic/content.php:32
+msgid "Edit"
+msgstr ""
+
+#: templates/templatic/content.php:46
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: templates/templatic/content.php:51
+msgid "Pages:"
+msgstr ""
+
+#: templates/templatic/footer.php:3
+msgid "Copyright &copy;"
+msgstr ""
+
+#: templates/templatic/functions.php:35
+msgid "&larr; Previous"
+msgstr ""
+
+#: templates/templatic/functions.php:36
+msgid "Next &rarr;"
+msgstr ""
+
+#: templates/templatic/functions.php:43
+msgid "Posts navigation"
+msgstr ""
+
+#: templates/templatic/functions.php:57
+msgid "Sticky"
+msgstr ""
+
+#: templates/templatic/index.php:11 templates/templatic/index.php:15
+#: templates/templatic/index.php:19
+msgid "Archive for"
+msgstr ""
+
+#: templates/templatic/search.php:7
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: templates/templatic/single.php:10
+msgid "By"
+msgstr ""
+
+#: templates/templatic/single.php:11
+msgid "on"
+msgstr ""
+
+# @ DOMAIN
+#: templatic-amp.php:56
+msgid "Settings"
+msgstr ""
+
+#: templatic-amp.php:102
+msgid "Templatic AMP Plugin is activated now, <a href=\""
+msgstr ""
